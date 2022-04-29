@@ -8,7 +8,6 @@ public class Sample {
 		System.out.println("This is MASTER");
 		
 		System.out.println("This is A");
-		
 		String original,reverse="";
 		Scanner rn=new Scanner(System.in);
 		System.out.println("Enter a string reverse");
@@ -21,6 +20,8 @@ public class Sample {
 		
 		System.out.println("Reverse of entered string is:"+reverse);
 		
+		System.out.println("This is B");
+		System.out.println("This is B");
 
 	}
 
