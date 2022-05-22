@@ -22,6 +22,8 @@ public class Sample {
 		
 		System.out.println("This is B");
 		System.out.println("This is B");
+		System.out.println("This is Inigo");
+		
 
 	}
 
